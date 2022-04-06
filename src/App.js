@@ -75,6 +75,7 @@ function App() {
         <NavBar cartItemsNumber={cart.length}/>
         <Routes>
           <Route path='/' element={<Homepage/>}/>
+          <Route path='/react-shopping-cart' element={<Homepage/>}/>
           <Route path='/home' element={<Homepage/>}/>
           <Route path='/shop' element={<Shop items={itemInfo} setItemToCart={setItemToCart}/>}/>
           <Route path='/shopping-cart' element={<ShoppingCart totalPrice={totalPrice[cart.length -1]} cartItems={cart} incrementItemQuantity={incrementItemQuantity} decreaseItemQuantity={decreaseItemQuantity} removeItemCart={removeItemCart}/>}/>
