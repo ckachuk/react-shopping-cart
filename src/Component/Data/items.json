@@ -1,0 +1,43 @@
+[{
+    "id":0,
+    "name": "Pizza",
+    "price": 20,
+    "desc": "this is the first item",
+    "imgItem": "https://pngimg.com/uploads/pizza/pizza_PNG43996.png"
+  },
+  {
+    "id":1,
+    "name": "Hamburger",
+    "price": 15,
+    "desc": "this is the second item",
+    "imgItem": "https://www.pngplay.com/wp-content/uploads/2/Burger-Transparent-Images.png"
+  },
+  {
+    "id":2,
+    "name": "Tacos",
+    "price": 10,
+    "desc": "this is the third item",
+    "imgItem": "https://img.itch.zone/aW1nLzcwMDU4MDQucG5n/original/wtz2kE.png"
+  },
+  {
+    "id": 3,
+    "name": "Spaguetti",
+    "price": 15,
+    "desc": "this is the fourth item",
+    "imgItem": "https://pngimg.com/uploads/pasta/pasta_PNG15.png"
+  },
+  {
+    "id": 4,
+    "name": "Gnocchi",
+    "price": 18,
+    "desc": "this is the fifth item",
+    "imgItem": "https://www.pngall.com/wp-content/uploads/11/Gnocchi-Background-PNG.png"
+  },
+  {
+    "id": 5,
+    "name": "Burrito",
+    "price": 18,
+    "desc": "this is the sixth item",
+    "imgItem": "https://www.pngmart.com/files/5/Burrito-PNG-Image.png"
+  }
+]
