@@ -1,3 +1,12 @@
+# This project was made to practice:
+
+React Functional Components.\
+Hooks.\
+MaterialUI.\
+React Router
+
+### Live demo: https://ckachuk.github.io/react-shopping-cart/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
